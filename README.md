@@ -1,8 +1,14 @@
-# 👋 Hi there, I'm Sam Chukwuemeka
+<p align="center">
+  <img src="YOUR-PHOTO-URL" width="150" style="border-radius: 50%" alt="Sam Chukwuemeka">
+</p>
 
-🌐 **Web Developer | Code Craftsman | Lifelong Learner**
+<h1 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sam Chukwuemeka
+</h1>
 
-Welcome to my GitHub profile! I’m passionate about building sleek, performant websites and bringing ideas to life with clean code and thoughtful design.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=435&lines=Web+Developer;React+%7C+Next.js+Enthusiast;Digital+Marketer+%7C+Designer;Lifelong+Learner" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -35,18 +41,23 @@ Welcome to my GitHub profile! I’m passionate about building sleek, performant 
 
 ## 📈 GitHub Stats
 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMDSImpacts&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=react" alt="Sam's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=react" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## ✉️ Connect With Me
 
-- 📧 **Email:** [engrsamchukwuemeka@gmail.com](mailto:engrsamchukwuemeka@gmail.com)
-- 💼 **LinkedIn:** [sam-paragon](https://www.linkedin.com/in/sam-paragon)
+- 📧 **Email:** [youremail@example.com](mailto:youremail@example.com)
+- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-username)
 
 ---
 
 > _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
 
-Thanks for stopping by! Feel free to check out my repositories below 👇
-
+Thanks for stopping by! Feel free to explore my repositories below 👇
