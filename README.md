@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR-PHOTO-URL" width="150" style="border-radius: 50%" alt="Sam Chukwuemeka">
+  <img src="https://github.com/SMDSImpacts/SMDSImpacts/blob/main/Samtoon.png" width="150" style="border-radius: 50%" alt="Sam Chukwuemeka">
 </p>
 
 <h1 align="center">
@@ -42,22 +42,25 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=react" alt="Sam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SMDSImpacts&show_icons=true&theme=react" alt="Sam's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=react" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMDSImpacts&theme=react" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## ✉️ Connect With Me
 
-- 📧 **Email:** [youremail@example.com](mailto:youremail@example.com)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-username)
+- 📧 **Email:** [engrsamchukwuemeka@gmail.com](mailto:engrsamchukwuemeka@gmail.com)
+- 💼 **LinkedIn:** [sam-paragon](https://www.linkedin.com/in/sam-paragon)
 
 ---
 
 > _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
 
+💼 **Repos:** [My Repositories](https://github.com/SMDSImpacts?tab=repositories)
+
 Thanks for stopping by! Feel free to explore my repositories below 👇
+
